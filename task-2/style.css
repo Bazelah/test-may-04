@@ -1,0 +1,31 @@
+.center {
+    text-align: center;
+}
+
+.one {
+    float: left;
+}
+
+.two {
+    float: center;
+}
+
+.three {
+    float: right;
+}
+
+.four {
+    float: left;
+}
+
+.five {
+    float: center;
+}
+
+.six {
+    float: right;
+}
+
+body {
+    background-color: #e2e4e5;
+}

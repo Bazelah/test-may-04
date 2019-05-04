@@ -1,0 +1,53 @@
+.one:hover{
+background-color: #c63928;
+padding: 10px;
+width: 25;
+height: 25;
+color: #fdfdfb;
+}
+
+.two:hover{
+background-color: #fdd835;
+border-color: #2a61fb;
+padding: 10px;
+width: 25;
+height: 25;
+color: #2a61fb;
+} 
+
+.three:hover{
+border-radius: 20px;
+background-color:#6ad1bd;
+padding: 10px;
+width: 25;
+height: 25;
+color: #f7f7f7;
+}
+
+.four:hover{
+background-color: #ffffff;
+border-radius: 25px;
+padding: 10px;
+width: 25;
+height: 25;
+color: #6749ea;
+border-color: #6749ea;
+}
+
+.five:hover{
+border-radius: 20px;
+border-color: #f6ac4e;
+background-color: #f5a231;
+padding: 10px;
+width: 25;
+height: 25;
+color:#edf0f3;
+}
+
+.six:hover{
+background-color: #37a1f3;
+color: #37a1f3;
+padding: 10px;
+width: 25;
+height: 25;
+}
